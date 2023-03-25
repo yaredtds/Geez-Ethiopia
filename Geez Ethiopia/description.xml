@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<description xmlns="http://openoffice.org/extensions/description/2006"
+	     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <identifier value="geez_ET.oxt" />
+  <version value="1.0" />
+  <platform value="all" />
+
+  <display-name>
+    <name lang="en_US">Geez Ethiopia</name>
+    <name lang="gz_ET">ግዕዝ ኢትዮጵያ</name>
+  </display-name>
+
+  <registration>
+		<!--
+		Don't change the values for 'accept-by' or 'suppress-on-update'.
+		It might be troublesome in multi-user installations if no
+		shared-layer installation can be done.
+		-->
+    <simple-license  accept-by="admin" default-license-id="default" suppress-on-update="true">
+      <license-text xlink:href="LICENSE" lang="en-US" license-id="default"/>
+    </simple-license>
+  </registration>
+
+  <icon>
+    <default xlink:href="geez_ET.ico" />
+    <high-contrast xlink:href="geez_ET.ico" />
+  </icon>
+
+</description>

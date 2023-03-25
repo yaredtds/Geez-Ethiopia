@@ -1,0 +1,6 @@
+This extension enables CTL, sets Geez as the default CTL language, and sets Abyssinica SIL as the default CTL font.
+
+Additionally, an Geez Hunspell dictionary is included.  The dictionary was obtained from old testament of bible:
+
+gz_ET.dic and gz_ET.aff were extracted from old testament book written in Geez using tesseract OCR technology.
+
