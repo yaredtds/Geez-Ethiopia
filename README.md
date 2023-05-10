@@ -1,2 +1,3 @@
 # Geez-Ethiopia
-Spell checking dictionary to Geez language most widely used in Ethiopian church.
+
+The spell checking extension to Geez language that most widely used in Ethiopian church.
